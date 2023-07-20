@@ -9,8 +9,6 @@ $ apt install git
 
 $ apt install python3 -y
 
-$ pip install pygame
-
 $ git clone https://github.com/ranamod/Fun.git
 
 $ cd Fun 
