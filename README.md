@@ -1,5 +1,5 @@
 # Fun
-It ade for only educational purpose. Modifie it. But don't for any illegal immigrants 
+It made for only educational purpose. Modifie it. But don't for any illegal immigrants 
 How To use this in termux/kali linux
 
 
